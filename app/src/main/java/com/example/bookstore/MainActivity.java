@@ -36,7 +36,7 @@ private Spinner spinner;
 
 
     }
-
+//////////////////
     public void btnOnClick(View view) {
         String cat =spinner.getSelectedItem().toString();
         String res="";
